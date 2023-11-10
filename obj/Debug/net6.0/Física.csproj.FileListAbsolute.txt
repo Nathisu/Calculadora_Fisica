@@ -1,0 +1,14 @@
+C:\Users\Thiago\Desktop\Física App\Física\bin\Debug\net6.0\Física.exe
+C:\Users\Thiago\Desktop\Física App\Física\bin\Debug\net6.0\Física.deps.json
+C:\Users\Thiago\Desktop\Física App\Física\bin\Debug\net6.0\Física.runtimeconfig.json
+C:\Users\Thiago\Desktop\Física App\Física\bin\Debug\net6.0\Física.dll
+C:\Users\Thiago\Desktop\Física App\Física\bin\Debug\net6.0\Física.pdb
+C:\Users\Thiago\Desktop\Física App\Física\obj\Debug\net6.0\Física.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thiago\Desktop\Física App\Física\obj\Debug\net6.0\Física.AssemblyInfoInputs.cache
+C:\Users\Thiago\Desktop\Física App\Física\obj\Debug\net6.0\Física.AssemblyInfo.cs
+C:\Users\Thiago\Desktop\Física App\Física\obj\Debug\net6.0\Física.csproj.CoreCompileInputs.cache
+C:\Users\Thiago\Desktop\Física App\Física\obj\Debug\net6.0\Física.dll
+C:\Users\Thiago\Desktop\Física App\Física\obj\Debug\net6.0\refint\Física.dll
+C:\Users\Thiago\Desktop\Física App\Física\obj\Debug\net6.0\Física.pdb
+C:\Users\Thiago\Desktop\Física App\Física\obj\Debug\net6.0\Física.genruntimeconfig.cache
+C:\Users\Thiago\Desktop\Física App\Física\obj\Debug\net6.0\ref\Física.dll
