@@ -1,2 +1,2 @@
-# Calculadora_Fisica
+# Fisica
 Repositório com fórmulas físicas
